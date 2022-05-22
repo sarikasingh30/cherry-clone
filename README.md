@@ -2,6 +2,21 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## About 
+
+Made a clone of a Restaurant Website .
+
+Applied Sorting according to various criteria
+
+## Demo 
+
+
+
+https://user-images.githubusercontent.com/97461783/169684576-de241308-41f0-40ab-89b7-967c627d85f8.mp4
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -68,3 +83,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+Happy Coding !
