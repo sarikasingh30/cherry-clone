@@ -1,0 +1,94 @@
+[
+    {
+      "id":1,
+      "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant1.jpeg",
+      "name": "Chaitanya Parathas",
+      "category": [
+        "North India",
+        "Punjabi",
+        "Chinese",
+        "Thalis Combo",
+        "Beverages"
+      ],
+      "rating": "4.3",
+      "deliveryTimings": "33 MINS",
+      "costForTwo": 200,
+      "offer": ["20% off", "Use TRYNEW"]
+    },
+    {
+      "id":2,
+        "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant2.jpeg",
+        "name": "MH 12 Pav Bhaji",
+        "category": [
+          "North India",
+          "Punjabi",
+          "Chinese",
+          "Street Food",
+          "Beverages"
+        ],
+        "rating": "4.1",
+        "deliveryTimings": "30 MINS",
+        "costForTwo": 100,
+        "offer": ["30% off", "Use TRYNEW"]
+      },
+      {
+        "id":3,
+        "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant3.jpeg",
+        "name": "Lunch Box",
+        "category": [
+          "North India", "Punjabi", "Combo"," Biryani", "Healthy Food", "Jain"," Thalis"
+        ],
+        "rating": "3.1",
+        "deliveryTimings": "15 MINS",
+        "costForTwo": 500,
+        "offer": ["18% off", "Use TRYNEW"]
+      },
+      {
+        "id":4,
+        "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant4.jpeg",
+        "name": "The Hungry Hippe",
+        "category": [
+          "Chinese", "Italian"," Thai"
+        ],
+        "rating": "4.9",
+        "deliveryTimings": "25 MINS",
+        "costForTwo": 650,
+        "offer": ["40% off", "Use TRYNEW"]
+      },
+      {
+        "id":5,
+        "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant5.jpeg",
+        "name": "Ovenstory Pizzas",
+        "category": [
+          "Pizzas"
+        ],
+        "rating": "3.9",
+        "deliveryTimings": "20 MINS",
+        "costForTwo": 200,
+        "offer": ["25% off", "Use TRYNEW"]
+      },
+      {
+        "id":6,
+        "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant6.jpeg",
+        "name": "Starbucks Coffee",
+        "category": [
+        "  Beverages", "Ice Cream"
+        ],
+        "rating": "4.5",
+        "deliveryTimings": "45 MINS",
+        "costForTwo": 700,
+        "offer": ["50% off", "Use TRYNEW"]
+      },
+      {
+        "id":7,
+        "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant7.jpeg",
+        "name": "Dinner Box",
+        "category": [
+          "North India", "Punjabi", "Heyderabadi Biryani"," Thalis","Chicken"
+        ],
+        "rating": "5",
+        "deliveryTimings": "40 MINS",
+        "costForTwo": 800,
+        "offer": ["10% off", "Use TRYNEW"]
+      }
+  ]
